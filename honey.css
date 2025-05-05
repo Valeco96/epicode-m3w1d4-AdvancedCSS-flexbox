@@ -54,6 +54,32 @@ nav #top-bar {
   margin-bottom: 90px;
 }
 
+section {
+  background-color: #fef7e2;
+  margin: 0 544px;
+  border-bottom-left-radius: 70px;
+  border-bottom-right-radius: 70px;
+}
+
+#shop-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#shop-image #honey-shop-image {
+  border-top-right-radius: 140px;
+  border-top-left-radius: 140px;
+}
+
+section button {
+  background-color: #ffdf7e;
+  border-radius: 50px;
+  padding: 14px 25px;
+  font-size: 14px;
+  border: none;
+}
+
 #container-description {
   display: flex;
   justify-content: space-between;
